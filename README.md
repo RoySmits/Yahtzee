@@ -14,7 +14,8 @@ Create code for the "Hold" button.<br>
 For making it a bit more user friendly:<br>
 Create code for the scores. (ie. auto calculation of the scores)<br>
 Create code for the "Game #" button. (ie. switching between games (not sure if this will be added at all))<br>
-Create code for the other buttons (numbers and 3 of a kind etc.) that when you have a pair of sixes, you can press the "sixes" button<br> and it will put the sum of those sixes inside the inputfield for the sixes.<br>
+Create code for the other buttons (numbers and 3 of a kind etc.) that when you have a pair of sixes, you can press<br>
+the "sixes" button and it will put the sum of those sixes inside the inputfield for the sixes.<br>
 <br>
 <br>
 For the game rules, visit http://yahtzee-rules.com/ 
