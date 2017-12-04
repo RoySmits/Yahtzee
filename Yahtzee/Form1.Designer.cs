@@ -294,6 +294,7 @@
             // 
             // richTextBox1
             // 
+            this.richTextBox1.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox1.Location = new System.Drawing.Point(76, 46);
             this.richTextBox1.Name = "richTextBox1";
@@ -303,33 +304,37 @@
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(35, 252);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(6, 250);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 26);
+            this.label1.Size = new System.Drawing.Size(64, 28);
             this.label1.TabIndex = 19;
             this.label1.Text = "Total\r\nScore";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label2
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(33, 299);
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(6, 284);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(37, 13);
+            this.label2.Size = new System.Drawing.Size(64, 28);
             this.label2.TabIndex = 23;
             this.label2.Text = "Bonus";
+            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label3
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(34, 320);
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(6, 318);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(36, 26);
+            this.label3.Size = new System.Drawing.Size(64, 28);
             this.label3.TabIndex = 24;
             this.label3.Text = "Upper\r\nTotal";
+            this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // richTextBox2
             // 
+            this.richTextBox2.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox2.Location = new System.Drawing.Point(76, 80);
             this.richTextBox2.Name = "richTextBox2";
@@ -339,6 +344,7 @@
             // 
             // richTextBox3
             // 
+            this.richTextBox3.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox3.Location = new System.Drawing.Point(76, 114);
             this.richTextBox3.Name = "richTextBox3";
@@ -348,6 +354,7 @@
             // 
             // richTextBox4
             // 
+            this.richTextBox4.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox4.Location = new System.Drawing.Point(76, 148);
             this.richTextBox4.Name = "richTextBox4";
@@ -357,6 +364,7 @@
             // 
             // richTextBox5
             // 
+            this.richTextBox5.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox5.Location = new System.Drawing.Point(76, 182);
             this.richTextBox5.Name = "richTextBox5";
@@ -366,6 +374,7 @@
             // 
             // richTextBox6
             // 
+            this.richTextBox6.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox6.Location = new System.Drawing.Point(76, 216);
             this.richTextBox6.Name = "richTextBox6";
@@ -375,6 +384,7 @@
             // 
             // richTextBox7
             // 
+            this.richTextBox7.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox7.Location = new System.Drawing.Point(76, 250);
             this.richTextBox7.Name = "richTextBox7";
@@ -384,6 +394,7 @@
             // 
             // richTextBox8
             // 
+            this.richTextBox8.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox8.Location = new System.Drawing.Point(76, 284);
             this.richTextBox8.Name = "richTextBox8";
@@ -393,6 +404,7 @@
             // 
             // richTextBox9
             // 
+            this.richTextBox9.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox9.Location = new System.Drawing.Point(76, 318);
             this.richTextBox9.Name = "richTextBox9";
@@ -402,6 +414,7 @@
             // 
             // richTextBox10
             // 
+            this.richTextBox10.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox10.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox10.Location = new System.Drawing.Point(76, 352);
             this.richTextBox10.Name = "richTextBox10";
@@ -411,6 +424,7 @@
             // 
             // richTextBox11
             // 
+            this.richTextBox11.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox11.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox11.Location = new System.Drawing.Point(76, 393);
             this.richTextBox11.Name = "richTextBox11";
@@ -420,6 +434,7 @@
             // 
             // richTextBox12
             // 
+            this.richTextBox12.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox12.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox12.Location = new System.Drawing.Point(76, 434);
             this.richTextBox12.Name = "richTextBox12";
@@ -429,6 +444,7 @@
             // 
             // richTextBox13
             // 
+            this.richTextBox13.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox13.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox13.Location = new System.Drawing.Point(76, 475);
             this.richTextBox13.Name = "richTextBox13";
@@ -438,6 +454,7 @@
             // 
             // richTextBox14
             // 
+            this.richTextBox14.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox14.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox14.Location = new System.Drawing.Point(76, 516);
             this.richTextBox14.Name = "richTextBox14";
@@ -447,6 +464,7 @@
             // 
             // richTextBox15
             // 
+            this.richTextBox15.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox15.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox15.Location = new System.Drawing.Point(76, 557);
             this.richTextBox15.Name = "richTextBox15";
@@ -456,6 +474,7 @@
             // 
             // richTextBox16
             // 
+            this.richTextBox16.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox16.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox16.Location = new System.Drawing.Point(76, 598);
             this.richTextBox16.Name = "richTextBox16";
@@ -465,24 +484,27 @@
             // 
             // label4
             // 
-            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(73, 12);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(44, 13);
+            this.label4.Size = new System.Drawing.Size(61, 28);
             this.label4.TabIndex = 40;
             this.label4.Text = "Game 1";
+            this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label5
             // 
-            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(137, 12);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(44, 13);
+            this.label5.Size = new System.Drawing.Size(61, 28);
             this.label5.TabIndex = 57;
             this.label5.Text = "Game 2";
+            this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // richTextBox17
             // 
+            this.richTextBox17.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox17.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox17.Location = new System.Drawing.Point(140, 598);
             this.richTextBox17.Name = "richTextBox17";
@@ -492,6 +514,7 @@
             // 
             // richTextBox18
             // 
+            this.richTextBox18.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox18.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox18.Location = new System.Drawing.Point(140, 557);
             this.richTextBox18.Name = "richTextBox18";
@@ -501,6 +524,7 @@
             // 
             // richTextBox19
             // 
+            this.richTextBox19.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox19.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox19.Location = new System.Drawing.Point(140, 516);
             this.richTextBox19.Name = "richTextBox19";
@@ -510,6 +534,7 @@
             // 
             // richTextBox20
             // 
+            this.richTextBox20.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox20.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox20.Location = new System.Drawing.Point(140, 475);
             this.richTextBox20.Name = "richTextBox20";
@@ -519,6 +544,7 @@
             // 
             // richTextBox21
             // 
+            this.richTextBox21.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox21.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox21.Location = new System.Drawing.Point(140, 434);
             this.richTextBox21.Name = "richTextBox21";
@@ -528,6 +554,7 @@
             // 
             // richTextBox22
             // 
+            this.richTextBox22.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox22.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox22.Location = new System.Drawing.Point(140, 393);
             this.richTextBox22.Name = "richTextBox22";
@@ -537,6 +564,7 @@
             // 
             // richTextBox23
             // 
+            this.richTextBox23.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox23.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox23.Location = new System.Drawing.Point(140, 352);
             this.richTextBox23.Name = "richTextBox23";
@@ -546,6 +574,7 @@
             // 
             // richTextBox24
             // 
+            this.richTextBox24.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox24.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox24.Location = new System.Drawing.Point(140, 318);
             this.richTextBox24.Name = "richTextBox24";
@@ -555,6 +584,7 @@
             // 
             // richTextBox25
             // 
+            this.richTextBox25.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox25.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox25.Location = new System.Drawing.Point(140, 284);
             this.richTextBox25.Name = "richTextBox25";
@@ -564,6 +594,7 @@
             // 
             // richTextBox26
             // 
+            this.richTextBox26.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox26.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox26.Location = new System.Drawing.Point(140, 250);
             this.richTextBox26.Name = "richTextBox26";
@@ -573,6 +604,7 @@
             // 
             // richTextBox27
             // 
+            this.richTextBox27.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox27.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox27.Location = new System.Drawing.Point(140, 216);
             this.richTextBox27.Name = "richTextBox27";
@@ -582,6 +614,7 @@
             // 
             // richTextBox28
             // 
+            this.richTextBox28.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox28.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox28.Location = new System.Drawing.Point(140, 182);
             this.richTextBox28.Name = "richTextBox28";
@@ -591,6 +624,7 @@
             // 
             // richTextBox29
             // 
+            this.richTextBox29.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox29.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox29.Location = new System.Drawing.Point(140, 148);
             this.richTextBox29.Name = "richTextBox29";
@@ -600,6 +634,7 @@
             // 
             // richTextBox30
             // 
+            this.richTextBox30.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox30.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox30.Location = new System.Drawing.Point(140, 114);
             this.richTextBox30.Name = "richTextBox30";
@@ -609,6 +644,7 @@
             // 
             // richTextBox31
             // 
+            this.richTextBox31.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox31.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox31.Location = new System.Drawing.Point(140, 80);
             this.richTextBox31.Name = "richTextBox31";
@@ -618,6 +654,7 @@
             // 
             // richTextBox32
             // 
+            this.richTextBox32.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox32.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox32.Location = new System.Drawing.Point(140, 46);
             this.richTextBox32.Name = "richTextBox32";
@@ -627,15 +664,17 @@
             // 
             // label6
             // 
-            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(201, 12);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(44, 13);
+            this.label6.Size = new System.Drawing.Size(61, 28);
             this.label6.TabIndex = 74;
             this.label6.Text = "Game 3";
+            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // richTextBox33
             // 
+            this.richTextBox33.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox33.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox33.Location = new System.Drawing.Point(204, 598);
             this.richTextBox33.Name = "richTextBox33";
@@ -645,6 +684,7 @@
             // 
             // richTextBox34
             // 
+            this.richTextBox34.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox34.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox34.Location = new System.Drawing.Point(204, 557);
             this.richTextBox34.Name = "richTextBox34";
@@ -654,6 +694,7 @@
             // 
             // richTextBox35
             // 
+            this.richTextBox35.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox35.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox35.Location = new System.Drawing.Point(204, 516);
             this.richTextBox35.Name = "richTextBox35";
@@ -663,6 +704,7 @@
             // 
             // richTextBox36
             // 
+            this.richTextBox36.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox36.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox36.Location = new System.Drawing.Point(204, 475);
             this.richTextBox36.Name = "richTextBox36";
@@ -672,6 +714,7 @@
             // 
             // richTextBox37
             // 
+            this.richTextBox37.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox37.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox37.Location = new System.Drawing.Point(204, 434);
             this.richTextBox37.Name = "richTextBox37";
@@ -681,6 +724,7 @@
             // 
             // richTextBox38
             // 
+            this.richTextBox38.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox38.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox38.Location = new System.Drawing.Point(204, 393);
             this.richTextBox38.Name = "richTextBox38";
@@ -690,6 +734,7 @@
             // 
             // richTextBox39
             // 
+            this.richTextBox39.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox39.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox39.Location = new System.Drawing.Point(204, 352);
             this.richTextBox39.Name = "richTextBox39";
@@ -699,6 +744,7 @@
             // 
             // richTextBox40
             // 
+            this.richTextBox40.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox40.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox40.Location = new System.Drawing.Point(204, 318);
             this.richTextBox40.Name = "richTextBox40";
@@ -708,6 +754,7 @@
             // 
             // richTextBox41
             // 
+            this.richTextBox41.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox41.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox41.Location = new System.Drawing.Point(204, 284);
             this.richTextBox41.Name = "richTextBox41";
@@ -717,6 +764,7 @@
             // 
             // richTextBox42
             // 
+            this.richTextBox42.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox42.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox42.Location = new System.Drawing.Point(204, 250);
             this.richTextBox42.Name = "richTextBox42";
@@ -726,6 +774,7 @@
             // 
             // richTextBox43
             // 
+            this.richTextBox43.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox43.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox43.Location = new System.Drawing.Point(204, 216);
             this.richTextBox43.Name = "richTextBox43";
@@ -735,6 +784,7 @@
             // 
             // richTextBox44
             // 
+            this.richTextBox44.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox44.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox44.Location = new System.Drawing.Point(204, 182);
             this.richTextBox44.Name = "richTextBox44";
@@ -744,6 +794,7 @@
             // 
             // richTextBox45
             // 
+            this.richTextBox45.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox45.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox45.Location = new System.Drawing.Point(204, 148);
             this.richTextBox45.Name = "richTextBox45";
@@ -753,6 +804,7 @@
             // 
             // richTextBox46
             // 
+            this.richTextBox46.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox46.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox46.Location = new System.Drawing.Point(204, 114);
             this.richTextBox46.Name = "richTextBox46";
@@ -762,6 +814,7 @@
             // 
             // richTextBox47
             // 
+            this.richTextBox47.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox47.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox47.Location = new System.Drawing.Point(204, 80);
             this.richTextBox47.Name = "richTextBox47";
@@ -771,6 +824,7 @@
             // 
             // richTextBox48
             // 
+            this.richTextBox48.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox48.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox48.Location = new System.Drawing.Point(204, 46);
             this.richTextBox48.Name = "richTextBox48";
@@ -780,15 +834,17 @@
             // 
             // label7
             // 
-            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.Location = new System.Drawing.Point(265, 12);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(44, 13);
+            this.label7.Size = new System.Drawing.Size(61, 28);
             this.label7.TabIndex = 91;
             this.label7.Text = "Game 4";
+            this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // richTextBox49
             // 
+            this.richTextBox49.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox49.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox49.Location = new System.Drawing.Point(268, 598);
             this.richTextBox49.Name = "richTextBox49";
@@ -798,6 +854,7 @@
             // 
             // richTextBox50
             // 
+            this.richTextBox50.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox50.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox50.Location = new System.Drawing.Point(268, 557);
             this.richTextBox50.Name = "richTextBox50";
@@ -807,6 +864,7 @@
             // 
             // richTextBox51
             // 
+            this.richTextBox51.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox51.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox51.Location = new System.Drawing.Point(268, 516);
             this.richTextBox51.Name = "richTextBox51";
@@ -816,6 +874,7 @@
             // 
             // richTextBox52
             // 
+            this.richTextBox52.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox52.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox52.Location = new System.Drawing.Point(268, 475);
             this.richTextBox52.Name = "richTextBox52";
@@ -825,6 +884,7 @@
             // 
             // richTextBox53
             // 
+            this.richTextBox53.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox53.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox53.Location = new System.Drawing.Point(268, 434);
             this.richTextBox53.Name = "richTextBox53";
@@ -834,6 +894,7 @@
             // 
             // richTextBox54
             // 
+            this.richTextBox54.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox54.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox54.Location = new System.Drawing.Point(268, 393);
             this.richTextBox54.Name = "richTextBox54";
@@ -843,6 +904,7 @@
             // 
             // richTextBox55
             // 
+            this.richTextBox55.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox55.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox55.Location = new System.Drawing.Point(268, 352);
             this.richTextBox55.Name = "richTextBox55";
@@ -852,6 +914,7 @@
             // 
             // richTextBox56
             // 
+            this.richTextBox56.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox56.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox56.Location = new System.Drawing.Point(268, 318);
             this.richTextBox56.Name = "richTextBox56";
@@ -861,6 +924,7 @@
             // 
             // richTextBox57
             // 
+            this.richTextBox57.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox57.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox57.Location = new System.Drawing.Point(268, 284);
             this.richTextBox57.Name = "richTextBox57";
@@ -870,6 +934,7 @@
             // 
             // richTextBox58
             // 
+            this.richTextBox58.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox58.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox58.Location = new System.Drawing.Point(268, 250);
             this.richTextBox58.Name = "richTextBox58";
@@ -879,6 +944,7 @@
             // 
             // richTextBox59
             // 
+            this.richTextBox59.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox59.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox59.Location = new System.Drawing.Point(268, 216);
             this.richTextBox59.Name = "richTextBox59";
@@ -888,6 +954,7 @@
             // 
             // richTextBox60
             // 
+            this.richTextBox60.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox60.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox60.Location = new System.Drawing.Point(268, 182);
             this.richTextBox60.Name = "richTextBox60";
@@ -897,6 +964,7 @@
             // 
             // richTextBox61
             // 
+            this.richTextBox61.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox61.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox61.Location = new System.Drawing.Point(268, 148);
             this.richTextBox61.Name = "richTextBox61";
@@ -906,6 +974,7 @@
             // 
             // richTextBox62
             // 
+            this.richTextBox62.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox62.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox62.Location = new System.Drawing.Point(268, 114);
             this.richTextBox62.Name = "richTextBox62";
@@ -915,6 +984,7 @@
             // 
             // richTextBox63
             // 
+            this.richTextBox63.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox63.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox63.Location = new System.Drawing.Point(268, 80);
             this.richTextBox63.Name = "richTextBox63";
@@ -924,6 +994,7 @@
             // 
             // richTextBox64
             // 
+            this.richTextBox64.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox64.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox64.Location = new System.Drawing.Point(268, 46);
             this.richTextBox64.Name = "richTextBox64";
@@ -933,15 +1004,17 @@
             // 
             // label8
             // 
-            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.Location = new System.Drawing.Point(329, 12);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(44, 13);
+            this.label8.Size = new System.Drawing.Size(61, 28);
             this.label8.TabIndex = 108;
             this.label8.Text = "Game 5";
+            this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // richTextBox65
             // 
+            this.richTextBox65.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox65.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox65.Location = new System.Drawing.Point(332, 598);
             this.richTextBox65.Name = "richTextBox65";
@@ -951,6 +1024,7 @@
             // 
             // richTextBox66
             // 
+            this.richTextBox66.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox66.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox66.Location = new System.Drawing.Point(332, 557);
             this.richTextBox66.Name = "richTextBox66";
@@ -960,6 +1034,7 @@
             // 
             // richTextBox67
             // 
+            this.richTextBox67.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox67.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox67.Location = new System.Drawing.Point(332, 516);
             this.richTextBox67.Name = "richTextBox67";
@@ -969,6 +1044,7 @@
             // 
             // richTextBox68
             // 
+            this.richTextBox68.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox68.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox68.Location = new System.Drawing.Point(332, 475);
             this.richTextBox68.Name = "richTextBox68";
@@ -978,6 +1054,7 @@
             // 
             // richTextBox69
             // 
+            this.richTextBox69.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox69.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox69.Location = new System.Drawing.Point(332, 434);
             this.richTextBox69.Name = "richTextBox69";
@@ -987,6 +1064,7 @@
             // 
             // richTextBox70
             // 
+            this.richTextBox70.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox70.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox70.Location = new System.Drawing.Point(332, 393);
             this.richTextBox70.Name = "richTextBox70";
@@ -996,6 +1074,7 @@
             // 
             // richTextBox71
             // 
+            this.richTextBox71.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox71.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox71.Location = new System.Drawing.Point(332, 352);
             this.richTextBox71.Name = "richTextBox71";
@@ -1005,6 +1084,7 @@
             // 
             // richTextBox72
             // 
+            this.richTextBox72.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox72.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox72.Location = new System.Drawing.Point(332, 318);
             this.richTextBox72.Name = "richTextBox72";
@@ -1014,6 +1094,7 @@
             // 
             // richTextBox73
             // 
+            this.richTextBox73.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox73.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox73.Location = new System.Drawing.Point(332, 283);
             this.richTextBox73.Name = "richTextBox73";
@@ -1023,6 +1104,7 @@
             // 
             // richTextBox74
             // 
+            this.richTextBox74.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox74.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox74.Location = new System.Drawing.Point(332, 249);
             this.richTextBox74.Name = "richTextBox74";
@@ -1032,6 +1114,7 @@
             // 
             // richTextBox75
             // 
+            this.richTextBox75.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox75.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox75.Location = new System.Drawing.Point(332, 216);
             this.richTextBox75.Name = "richTextBox75";
@@ -1041,6 +1124,7 @@
             // 
             // richTextBox76
             // 
+            this.richTextBox76.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox76.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox76.Location = new System.Drawing.Point(332, 182);
             this.richTextBox76.Name = "richTextBox76";
@@ -1050,6 +1134,7 @@
             // 
             // richTextBox77
             // 
+            this.richTextBox77.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox77.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox77.Location = new System.Drawing.Point(332, 148);
             this.richTextBox77.Name = "richTextBox77";
@@ -1059,6 +1144,7 @@
             // 
             // richTextBox78
             // 
+            this.richTextBox78.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox78.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox78.Location = new System.Drawing.Point(332, 114);
             this.richTextBox78.Name = "richTextBox78";
@@ -1068,6 +1154,7 @@
             // 
             // richTextBox79
             // 
+            this.richTextBox79.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox79.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox79.Location = new System.Drawing.Point(332, 80);
             this.richTextBox79.Name = "richTextBox79";
@@ -1077,6 +1164,7 @@
             // 
             // richTextBox80
             // 
+            this.richTextBox80.BackColor = System.Drawing.Color.Thistle;
             this.richTextBox80.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox80.Location = new System.Drawing.Point(332, 46);
             this.richTextBox80.Name = "richTextBox80";
@@ -1136,6 +1224,7 @@
             // 
             // richTextBox81
             // 
+            this.richTextBox81.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox81.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox81.Location = new System.Drawing.Point(332, 707);
             this.richTextBox81.Name = "richTextBox81";
@@ -1145,6 +1234,7 @@
             // 
             // richTextBox82
             // 
+            this.richTextBox82.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox82.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox82.Location = new System.Drawing.Point(332, 673);
             this.richTextBox82.Name = "richTextBox82";
@@ -1154,6 +1244,7 @@
             // 
             // richTextBox83
             // 
+            this.richTextBox83.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox83.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox83.Location = new System.Drawing.Point(332, 639);
             this.richTextBox83.Name = "richTextBox83";
@@ -1163,6 +1254,7 @@
             // 
             // richTextBox84
             // 
+            this.richTextBox84.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox84.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox84.Location = new System.Drawing.Point(268, 707);
             this.richTextBox84.Name = "richTextBox84";
@@ -1172,6 +1264,7 @@
             // 
             // richTextBox85
             // 
+            this.richTextBox85.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox85.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox85.Location = new System.Drawing.Point(268, 673);
             this.richTextBox85.Name = "richTextBox85";
@@ -1181,6 +1274,7 @@
             // 
             // richTextBox86
             // 
+            this.richTextBox86.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox86.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox86.Location = new System.Drawing.Point(268, 639);
             this.richTextBox86.Name = "richTextBox86";
@@ -1190,6 +1284,7 @@
             // 
             // richTextBox87
             // 
+            this.richTextBox87.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox87.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox87.Location = new System.Drawing.Point(204, 707);
             this.richTextBox87.Name = "richTextBox87";
@@ -1199,6 +1294,7 @@
             // 
             // richTextBox88
             // 
+            this.richTextBox88.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox88.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox88.Location = new System.Drawing.Point(204, 673);
             this.richTextBox88.Name = "richTextBox88";
@@ -1208,6 +1304,7 @@
             // 
             // richTextBox89
             // 
+            this.richTextBox89.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox89.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox89.Location = new System.Drawing.Point(204, 639);
             this.richTextBox89.Name = "richTextBox89";
@@ -1217,6 +1314,7 @@
             // 
             // richTextBox90
             // 
+            this.richTextBox90.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox90.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox90.Location = new System.Drawing.Point(140, 707);
             this.richTextBox90.Name = "richTextBox90";
@@ -1226,6 +1324,7 @@
             // 
             // richTextBox91
             // 
+            this.richTextBox91.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox91.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox91.Location = new System.Drawing.Point(140, 673);
             this.richTextBox91.Name = "richTextBox91";
@@ -1235,6 +1334,7 @@
             // 
             // richTextBox92
             // 
+            this.richTextBox92.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox92.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox92.Location = new System.Drawing.Point(140, 639);
             this.richTextBox92.Name = "richTextBox92";
@@ -1244,6 +1344,7 @@
             // 
             // richTextBox93
             // 
+            this.richTextBox93.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox93.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox93.Location = new System.Drawing.Point(76, 707);
             this.richTextBox93.Name = "richTextBox93";
@@ -1253,6 +1354,7 @@
             // 
             // richTextBox94
             // 
+            this.richTextBox94.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox94.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox94.Location = new System.Drawing.Point(76, 673);
             this.richTextBox94.Name = "richTextBox94";
@@ -1262,6 +1364,7 @@
             // 
             // richTextBox95
             // 
+            this.richTextBox95.BackColor = System.Drawing.Color.LightSteelBlue;
             this.richTextBox95.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox95.Location = new System.Drawing.Point(76, 639);
             this.richTextBox95.Name = "richTextBox95";
@@ -1271,30 +1374,33 @@
             // 
             // label10
             // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(34, 641);
+            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.Location = new System.Drawing.Point(6, 639);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(36, 26);
+            this.label10.Size = new System.Drawing.Size(64, 28);
             this.label10.TabIndex = 131;
             this.label10.Text = "Total\r\nLower";
+            this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label12
             // 
-            this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(34, 709);
+            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.Location = new System.Drawing.Point(6, 707);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(36, 26);
+            this.label12.Size = new System.Drawing.Size(64, 28);
             this.label12.TabIndex = 133;
             this.label12.Text = "Grand\r\nTotal";
+            this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label11
             // 
-            this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(34, 675);
+            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Location = new System.Drawing.Point(6, 673);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(36, 26);
+            this.label11.Size = new System.Drawing.Size(64, 28);
             this.label11.TabIndex = 134;
             this.label11.Text = "Upper\r\nTotal";
+            this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // btn_GameNo
             // 
@@ -1520,7 +1626,6 @@
             this.Text = "Yahtzee";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 

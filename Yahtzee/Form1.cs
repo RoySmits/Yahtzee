@@ -95,7 +95,8 @@ namespace Yahtzee
             // check the Dice results and call them accordingly
             bool Yahtzee = false, fourKind = false, highStraight = false,
                 lowStraight = false, fullHouse = false, threeKind = false,
-                twoPair = false, onePair = false;
+                twoPair = false, onePair = false, haveSix = false, haveFive = false,
+                haveFour = false, haveThree = false, haveTwo = false, haveOne = false;
 
             for (int i = 0; i < diceResults.Length; i++)
             {
@@ -138,6 +139,31 @@ namespace Yahtzee
 
             }
 
+            for (int i = 0; i < dice.Length; i++)
+            {
+                switch (dice[i])
+                {
+                    case 6:
+                        haveSix = true;
+                        break;
+                    case 5:
+                        haveFive = true;
+                        break;
+                    case 4:
+                        haveFour = true;
+                        break;
+                    case 3:
+                        haveThree = true;
+                        break;
+                    case 2:
+                        haveTwo = true;
+                        break;
+                    case 1:
+                        haveOne = true;
+                        break;
+                }
+            }
+
             if (Yahtzee)
                 lbl_displayResults.Text = "YAHTZEE";
             else if (fourKind)
@@ -156,6 +182,18 @@ namespace Yahtzee
                 lbl_displayResults.Text = "Two Pair";
             else if (onePair)
                 lbl_displayResults.Text = "One Pair";
+            else if (haveSix)
+                lbl_displayResults.Text = "Six High";
+            else if (haveFive)
+                lbl_displayResults.Text = "Five High";
+            else if (haveFour)
+                lbl_displayResults.Text = "Four High";
+            else if (haveThree)
+                lbl_displayResults.Text = "Three High";
+            else if (haveTwo)
+                lbl_displayResults.Text = "Two High";
+            else if (haveOne)
+                lbl_displayResults.Text = "One High";
         }
 
         private void ResetResults()
